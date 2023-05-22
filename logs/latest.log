@@ -1,46 +1,54 @@
-[06:34:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:34:31] [ServerMain/INFO]: Loaded 7 recipes
-[06:34:32] [ServerMain/INFO]: Loaded 1179 advancements
-[06:34:32] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[06:34:32] [Server thread/INFO]: Loading properties
-[06:34:32] [Server thread/INFO]: Default game type: SURVIVAL
-[06:34:32] [Server thread/INFO]: Generating keypair
-[06:34:33] [Server thread/INFO]: Starting Minecraft server on 161.246.5.204:110
-[06:34:33] [Server thread/INFO]: Using default channel type
-[06:34:33] [Server thread/INFO]: Preparing level "world"
-[06:34:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:34:37] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[06:34:37] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:34:37] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[06:34:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[06:34:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[06:34:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[06:34:38] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[06:34:38] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[06:34:39] [Worker-Main-5/INFO]: Preparing spawn area: 34%
-[06:34:39] [Worker-Main-8/INFO]: Preparing spawn area: 69%
-[06:34:40] [Server thread/INFO]: Time elapsed: 5468 ms
-[06:34:40] [Server thread/INFO]: Done (6.625s)! For help, type "help"
-[06:40:50] [User Authenticator #1/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
-[06:40:50] [Server thread/INFO]: NonGP33M[/161.246.5.204:50429] logged in with entity id 144 at (51.78861063987494, 64.0, 588.5618467626865)
-[06:40:50] [Server thread/INFO]: NonGP33M joined the game
-[06:40:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
-[06:54:16] [Server thread/INFO]: NonGP33M has made the advancement [Cover Me with Diamonds]
-[06:57:53] [Server thread/INFO]: NonGP33M has made the advancement [A Seedy Place]
-[06:59:25] [Server thread/INFO]: NonGP33M has made the advancement [The Parrots and the Bats]
-[07:13:00] [Server thread/INFO]: NonGP33M lost connection: Disconnected
-[07:13:00] [Server thread/INFO]: NonGP33M left the game
-[07:13:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:13:10] [Server thread/INFO]: ????<--[HERE]
-[07:13:13] [Server thread/INFO]: Stopping the server
-[07:13:13] [Server thread/INFO]: Stopping server
-[07:13:13] [Server thread/INFO]: Saving players
-[07:13:13] [Server thread/INFO]: Saving worlds
-[07:13:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:13:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:13:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:13:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:16:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:16:46] [ServerMain/INFO]: Loaded 7 recipes
+[20:16:47] [ServerMain/INFO]: Loaded 1179 advancements
+[20:16:47] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[20:16:47] [Server thread/INFO]: Loading properties
+[20:16:47] [Server thread/INFO]: Default game type: SURVIVAL
+[20:16:47] [Server thread/INFO]: Generating keypair
+[20:16:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:16:48] [Server thread/INFO]: Using epoll channel type
+[20:16:48] [Server thread/INFO]: Preparing level "world"
+[20:16:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:16:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:16:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:17:00] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[20:17:00] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[20:17:01] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[20:17:01] [Server thread/INFO]: Time elapsed: 8728 ms
+[20:17:01] [Server thread/INFO]: Done (13.112s)! For help, type "help"
+[20:17:30] [User Authenticator #1/INFO]: UUID of player Porkungl is 025efa1e-7251-4937-b30a-cfa3aa229100
+[20:17:30] [Server thread/INFO]: Porkungl[/161.246.145.17:27986] logged in with entity id 145 at (57.51670375877332, 63.0, 592.0373987181845)
+[20:17:30] [Server thread/INFO]: Porkungl joined the game
+[20:17:30] [User Authenticator #2/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
+[20:17:34] [Server thread/INFO]: NonGP33M[/49.228.89.158:56842] logged in with entity id 146 at (66.88141422451206, 63.0, 601.4450050885166)
+[20:17:34] [Server thread/INFO]: NonGP33M joined the game
+[20:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4219ms or 84 ticks behind
+[21:27:46] [Server thread/INFO]: Porkungl has made the advancement [Best Friends Forever]
+[21:37:44] [Server thread/INFO]: NonGP33M lost connection: Disconnected
+[21:37:44] [Server thread/INFO]: NonGP33M left the game
+[21:37:53] [Server thread/INFO]: Porkungl lost connection: Disconnected
+[21:37:53] [Server thread/INFO]: Porkungl left the game
+[21:37:55] [Server thread/INFO]: Stopping the server
+[21:37:55] [Server thread/INFO]: Stopping server
+[21:37:55] [Server thread/INFO]: Saving players
+[21:37:55] [Server thread/INFO]: Saving worlds
+[21:37:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:37:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:37:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:37:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:37:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:37:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:37:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
