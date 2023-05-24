@@ -1,256 +1,65 @@
-[15:21:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:21:27] [ServerMain/INFO]: Loaded 7 recipes
-[15:21:27] [ServerMain/INFO]: Loaded 1179 advancements
-[15:21:28] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[15:21:28] [Server thread/INFO]: Loading properties
-[15:21:28] [Server thread/INFO]: Default game type: SURVIVAL
-[15:21:28] [Server thread/INFO]: Generating keypair
-[15:21:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:21:28] [Server thread/INFO]: Using epoll channel type
-[15:21:28] [Server thread/INFO]: Preparing level "world"
-[15:21:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:21:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:40] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[15:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[15:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 73%
-[15:21:41] [Server thread/INFO]: Time elapsed: 8901 ms
-[15:21:41] [Server thread/INFO]: Done (13.019s)! For help, type "help"
-[15:21:48] [User Authenticator #1/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
-[15:21:49] [Server thread/INFO]: NonGP33M[/49.228.89.158:57118] logged in with entity id 137 at (78.46277926146304, 64.0, 592.1649518443754)
-[15:21:49] [Server thread/INFO]: NonGP33M joined the game
-[15:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4484ms or 89 ticks behind
-[15:22:35] [User Authenticator #2/INFO]: UUID of player Porkungl is 025efa1e-7251-4937-b30a-cfa3aa229100
-[15:22:35] [Server thread/INFO]: Porkungl[/161.246.145.17:28136] logged in with entity id 506 at (-99.4570015398089, 68.875, 555.1247248112899)
-[15:22:35] [Server thread/INFO]: Porkungl joined the game
-[15:29:53] [Server thread/INFO]: Porkungl has made the advancement [Cover Me with Diamonds]
-[15:52:57] [Server thread/INFO]: NonGP33M lost connection: Disconnected
-[15:52:57] [Server thread/INFO]: NonGP33M left the game
-[15:54:46] [User Authenticator #3/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
-[15:54:47] [Server thread/INFO]: NonGP33M[/49.228.89.158:59663] logged in with entity id 8155 at (55.82023934833803, 64.5, 610.2942682121878)
-[15:54:47] [Server thread/INFO]: NonGP33M joined the game
-[16:34:07] [Server thread/INFO]: <NonGP33M> ป้อ
-[16:34:14] [Server thread/INFO]: <NonGP33M> มึงเหยียบไข่เต่ารึเปล่า
-[16:34:35] [Server thread/INFO]: <Porkungl> เหยียบทำไม?
-[16:34:44] [Server thread/INFO]: <NonGP33M> กูไม่รู้
-[16:34:44] [Server thread/INFO]: <Porkungl> ไม่นะ
-[16:35:07] [Server thread/INFO]: <NonGP33M> มันฝ่อรึเปล่าวะ
-[16:35:17] [Server thread/INFO]: <Porkungl> กุไม่รู้5555
-[16:35:24] [Server thread/INFO]: <NonGP33M> 555555
-[16:35:34] [Server thread/INFO]: <NonGP33M> ไปหามาเพิ่มดีกว่า
-[16:35:36] [Server thread/INFO]: <Porkungl> มึงพูดเหมือนแม่งเป็นหูดอะ
-[16:35:41] [Server thread/INFO]: <NonGP33M> 55555
-[16:35:55] [Server thread/INFO]: <Porkungl> ไข่มันร้าวป่าววะ
-[16:36:02] [Server thread/INFO]: <NonGP33M> อาจจะ
-[16:36:05] [Server thread/INFO]: <Porkungl> หรือกูคิดไปเอง
-[16:36:16] [Server thread/INFO]: <NonGP33M> มันร้าวอะ ใช่
-[16:36:21] [Server thread/INFO]: <Porkungl> ไปเหยียบเพิ่มมะ
-[16:36:24] [Server thread/INFO]: <NonGP33M> กูเลยถามว่ามึงเหยียบรึเปล่า
-[16:36:26] [Server thread/INFO]: <NonGP33M> อย่า
-[16:36:29] [Server thread/INFO]: <Porkungl> จะได้ร้าวกว่าเดิม
-[16:36:37] [Server thread/INFO]: <Porkungl> จะได้ฟักไวๆ
-[16:37:06] [Server thread/INFO]: <Porkungl> แล้วมึงออกดิสไมวะ
-[16:37:12] [Server thread/INFO]: <NonGP33M> คุยกับซัน
-[16:37:25] [Server thread/INFO]: <NonGP33M> ทำไรต่อดีวะ
-[16:39:04] [Server thread/INFO]: <Porkungl> นั้นดิ
-[16:39:09] [Server thread/INFO]: <Porkungl> 555555
-[16:39:26] [Server thread/INFO]: <Porkungl> เปิดโลกใหม่ไหม
-[16:39:32] [Server thread/INFO]: <Porkungl> 555555
-[16:39:39] [Server thread/INFO]: <NonGP33M> เอามั้ย
-[16:39:54] [Server thread/INFO]: <Porkungl> ไม่ ไอสัส
-[16:39:59] [Server thread/INFO]: <NonGP33M> 555
-[16:40:00] [Server thread/INFO]: <Porkungl> กูพูดเล่น
-[16:40:12] [Server thread/INFO]: <Porkungl> เป่าหมายคือไรนะ
-[16:40:19] [Server thread/INFO]: <Porkungl> เป้า
-[16:40:21] [Server thread/INFO]: <NonGP33M> ปีก
-[16:40:31] [Server thread/INFO]: <Porkungl> ลงนรก
-[16:40:45] [Server thread/INFO]: <Porkungl> หา ender pearl
-[16:40:57] [Server thread/INFO]: <NonGP33M> ดาบ looting
-[16:41:24] [Server thread/INFO]: <Porkungl> ไปบุก bastion ป่าว
-[16:41:39] [Server thread/INFO]: <NonGP33M> ไหวหรอสะ
-[16:41:42] [Server thread/INFO]: <Porkungl> ปราสาท piglin ละ
-[16:41:43] [Server thread/INFO]: <NonGP33M> ไหวหรอวะ
-[16:41:49] [Server thread/INFO]: <Porkungl> ไม่รู็555555
-[16:41:52] [Server thread/INFO]: <NonGP33M> นอนก่อนๆ
-[16:41:55] [Server thread/INFO]: <Porkungl> ลองดู
-[16:52:28] [Server thread/INFO]: Villager bxz['Fisherman'/144, l='ServerLevel[world]', x=79.54, y=75.00, z=593.61] died, message: 'Fisherman tried to swim in lava'
-[17:05:08] [Server thread/INFO]: <Porkungl> อยากลอง raid ดูละ
-[17:05:13] [Server thread/INFO]: <NonGP33M> ไปหา
-[17:05:16] [Server thread/INFO]: <Porkungl> ว่าไหวป่าว
-[17:05:23] [Server thread/INFO]: <NonGP33M> fetcher
-[17:19:58] [Server thread/INFO]: Villager bxz['Farmer'/28794, l='ServerLevel[world]', x=-340.01, y=74.02, z=776.95] died, message: 'Farmer was slain by Zombie'
-[17:38:29] [Server thread/INFO]: Villager bxz['Fisherman'/26887, l='ServerLevel[world]', x=77.41, y=74.48, z=594.61] died, message: 'Fisherman burned to death'
-[17:49:56] [User Authenticator #4/INFO]: UUID of player TossakanRavanna is 726a7efb-1b5f-47dd-994e-aa275e7fb5d1
-[17:49:56] [Server thread/INFO]: TossakanRavanna[/49.228.224.73:61792] logged in with entity id 38598 at (0.5, 85.0, -31.5)
-[17:49:56] [Server thread/INFO]: TossakanRavanna joined the game
-[17:50:04] [Server thread/INFO]: <NonGP33M> ชื่อประหลาด
-[17:50:26] [Server thread/INFO]: <Porkungl> 60 600
-[17:54:00] [Server thread/INFO]: TossakanRavanna has made the advancement [Sweet Dreams]
-[17:54:35] [Server thread/INFO]: <Porkungl> ไอภีม
-[17:54:42] [Server thread/INFO]: <NonGP33M> ?
-[17:54:49] [Server thread/INFO]: <Porkungl> ยังไม่ฟักอีกหรอวะ
-[17:54:51] [Server thread/INFO]: TossakanRavanna went up in flames
-[17:54:54] [Server thread/INFO]: <Porkungl> นานสัส
-[17:54:59] [Server thread/INFO]: <NonGP33M> กูทุบ
-[17:55:02] [Server thread/INFO]: <NonGP33M> วางใหม่
-[17:56:10] [Server thread/INFO]: TossakanRavanna has made the advancement [Cover Me with Diamonds]
-[17:56:18] [Server thread/INFO]: TossakanRavanna has made the advancement [Suit Up]
-[17:57:16] [Server thread/INFO]: TossakanRavanna has made the advancement [Fishy Business]
-[17:59:38] [Server thread/INFO]: <Porkungl> ภีมๆ
-[17:59:42] [Server thread/INFO]: <NonGP33M> ?
-[17:59:45] [Server thread/INFO]: <Porkungl> ดูนี่ๆ
-[17:59:49] [Server thread/INFO]: <Porkungl> แรงงานทาส
-[17:59:57] [Server thread/INFO]: <NonGP33M> ไหนวะ
-[18:00:06] [Server thread/INFO]: <NonGP33M> 5555555
-[18:00:09] [Server thread/INFO]: <Porkungl> 555555555
-[18:01:51] [Server thread/INFO]: <Porkungl> armeror ใช้บล็อคอาชีพอะไรวะ
-[18:02:06] [Server thread/INFO]: <NonGP33M> blast furnace
-[18:02:12] [Server thread/INFO]: <Porkungl> าา
-[18:02:16] [Server thread/INFO]: <Porkungl> kk
-[18:06:58] [Server thread/INFO]: <Porkungl> coal หายไปไหน
-[18:07:27] [Server thread/INFO]: <NonGP33M> หมด
-[18:07:34] [Server thread/INFO]: <NonGP33M> ตอนนี้กูไปขุดเพิ่มละ
-[18:07:43] [Server thread/INFO]: <Porkungl> ไปขุเอยู่หรอ
-[18:07:55] [Server thread/INFO]: <NonGP33M> กูอยู่ที่โรงงานทาส
-[18:08:01] [Server thread/INFO]: <Porkungl> 55555555
-[18:08:09] [Server thread/INFO]: <Porkungl> ทาสตกปลาอะนะ
-[18:08:42] [Server thread/INFO]: <Porkungl> ไอภีมเสกของง
-[18:08:47] [Server thread/INFO]: <NonGP33M> กูไปขุด
-[18:08:48] [Server thread/INFO]: <NonGP33M> มึงอะ
-[18:08:51] [Server thread/INFO]: <NonGP33M> ไปขุดบ้าง
-[18:09:09] [Server thread/INFO]: <Porkungl> กุขุดมาทุกรอบครับน้องง
-[18:11:23] [Server thread/INFO]: TossakanRavanna has made the advancement [Isn't It Iron Pick]
-[18:12:23] [Server thread/INFO]: TossakanRavanna has made the advancement [We Need to Go Deeper]
-[18:12:26] [Server thread/INFO]: TossakanRavanna has made the advancement [A Terrible Fortress]
-[18:13:33] [Server thread/INFO]: TossakanRavanna has made the advancement [Ol' Betsy]
-[18:13:33] [Server thread/INFO]: TossakanRavanna has made the advancement [Take Aim]
-[18:13:42] [Server thread/INFO]: TossakanRavanna has made the advancement [Monster Hunter]
-[18:13:49] [Server thread/INFO]: Porkungl has made the advancement [We Need to Go Deeper]
-[18:22:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-19, y=38, z=44} gt{x=-26, y=62, z=40}
-[18:22:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-30, y=58, z=41} gt{x=-35, y=59, z=42}
-[18:22:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-30, y=58, z=41} gt{x=-34, y=58, z=42}
-[18:23:50] [Server thread/INFO]: Porkungl has made the advancement [A Terrible Fortress]
-[18:24:52] [Server thread/INFO]: Porkungl has made the advancement [Hidden in the Depths]
-[18:25:50] [Server thread/INFO]: Porkungl has made the advancement [Into Fire]
-[18:25:57] [Server thread/INFO]: Villager bxz['Fisherman'/40284, l='ServerLevel[world]', x=78.71, y=69.00, z=589.38] died, message: 'Fisherman tried to swim in lava'
-[18:33:35] [Server thread/INFO]: TossakanRavanna has made the advancement [What a Deal!]
-[18:37:12] [Server thread/INFO]: NonGP33M has made the advancement [Ol' Betsy]
-[18:37:12] [Server thread/INFO]: NonGP33M has made the advancement [Take Aim]
-[18:38:28] [Server thread/INFO]: TossakanRavanna was slain by Enderman
-[18:41:36] [Server thread/INFO]: <NonGP33M> นอนเหอะ
-[18:41:44] [Server thread/INFO]: <NonGP33M> แต่มันจะเช้าละ
-[18:42:12] [Server thread/INFO]: <Porkungl> กุไกลบ้านมาก
-[18:46:26] [Server thread/INFO]: TossakanRavanna lost connection: Disconnected
-[18:46:26] [Server thread/INFO]: TossakanRavanna left the game
-[18:47:00] [Server thread/INFO]: <NonGP33M> ป้อ
-[18:47:03] [Server thread/INFO]: <NonGP33M> อยู่ไหน
-[18:47:10] [Server thread/INFO]: <NonGP33M> กูปั๊มสตริง
-[18:47:19] [Server thread/INFO]: Porkungl has made the advancement [Diamonds!]
-[18:47:32] [Server thread/INFO]: <Porkungl> แปป
-[18:47:37] [Server thread/INFO]: <Porkungl> ไกลอะ
-[18:47:41] [Server thread/INFO]: <Porkungl> ลงถ้ำ
-[18:47:45] [Server thread/INFO]: <NonGP33M> เค
-[19:00:51] [Server thread/INFO]: <Porkungl> ถึงบ้านละ
-[19:01:22] [Server thread/INFO]: <NonGP33M> มาดู
-[19:01:28] [Server thread/INFO]: <Porkungl> ไหน
-[19:02:29] [Server thread/INFO]: <NonGP33M> ฦ
-[19:02:30] [Server thread/INFO]: <Porkungl> เรียกให้ดู
-[19:02:31] [Server thread/INFO]: <NonGP33M> มา
-[19:02:35] [Server thread/INFO]: <NonGP33M> กูให้ตามมา
-[19:03:03] [Server thread/INFO]: <Porkungl> เชี่ยยยย
-[19:03:04] [Server thread/INFO]: <NonGP33M> 555555555
-[19:03:25] [Server thread/INFO]: <Porkungl> โครตโกงงง
-[19:03:28] [Server thread/INFO]: <NonGP33M> 5555555
-[19:03:30] [Server thread/INFO]: <Porkungl> ใช้บัคเกม
-[19:03:35] [Server thread/INFO]: <Porkungl> 555555
-[19:03:48] [Server thread/INFO]: <Porkungl> เอาไปแลกได้ป้ะ
-[19:03:48] [Server thread/INFO]: <NonGP33M> ฟามเหล็กก็โกง
-[19:03:54] [Server thread/INFO]: <NonGP33M> ฟามตกปลาก็โกง
-[19:04:08] [Server thread/INFO]: <Porkungl> แลกได้ป่าว
-[19:04:11] [Server thread/INFO]: <NonGP33M> ได้
-[19:04:36] [Server thread/INFO]: <NonGP33M> fisherman กับ fletcher
-[19:04:57] [Server thread/INFO]: <Porkungl> ร่ำ ร ว ย
-[19:05:27] [Server thread/INFO]: <NonGP33M> รวยกว่าเหล็กอีกไอ่เหี้ย
-[19:05:40] [Server thread/INFO]: <Porkungl> รวยไปบางที
-[19:05:47] [Server thread/INFO]: <NonGP33M> มึงทำลายวงจรไปแล้วอ่อ
-[19:05:48] [Server thread/INFO]: <Porkungl> เก็บไม่พอละสัส
-[19:05:59] [Server thread/INFO]: <Porkungl> ปิดเฉยๆ
-[19:06:06] [Server thread/INFO]: <NonGP33M> มันเปิดปกติไม่ได้
-[19:06:14] [Server thread/INFO]: <Porkungl> เอ้าา
-[19:06:15] [Server thread/INFO]: <NonGP33M> มันต้องใช้กรรไกรตัด แล้วกะจังหวะ
-[19:06:17] [Server thread/INFO]: <Porkungl> บึ้มมมม
-[19:06:20] [Server thread/INFO]: <NonGP33M> กูทำได้
-[19:06:22] [Server thread/INFO]: <NonGP33M> กูเก่ง
-[19:06:25] [Server thread/INFO]: <NonGP33M> ไม่เป็นไรๆ
-[19:06:33] [Server thread/INFO]: <Porkungl> ขี้โม้ชิบหาย
-[19:06:39] [Server thread/INFO]: <NonGP33M> เปิดละ
-[19:06:47] [Server thread/INFO]: <NonGP33M> ปิดเหอะ
-[19:06:48] [Server thread/INFO]: <Porkungl> เอางี้
-[19:06:49] [Server thread/INFO]: <NonGP33M> ล้นละ
-[19:07:06] [Server thread/INFO]: <Porkungl> เออ นั้นล่ะ เหตุผลที่ปืด
-[19:07:11] [Server thread/INFO]: <Porkungl> 555555
-[19:07:20] [Server thread/INFO]: <NonGP33M> มันมีตัวที่เอาขนแกะไปแลกด้วย
-[19:07:27] [Server thread/INFO]: <NonGP33M> shepherd
-[19:07:29] [Server thread/INFO]: <Porkungl> กูได้ Ancient debris
-[19:07:36] [Server thread/INFO]: <NonGP33M> เค
-[19:07:44] [Server thread/INFO]: <NonGP33M> ขนแกะคราฟจากใยแมงมุมได้
-[19:07:46] [Server thread/INFO]: <Porkungl> 2 อันเอง
-[19:08:00] [Server thread/INFO]: <Porkungl> แลเวเอาไปทำไรต่อ
-[19:08:05] [Server thread/INFO]: <Porkungl> 55555
-[19:08:15] [Server thread/INFO]: <NonGP33M> เอาขนแกะไปแลก emerald
-[19:08:21] [Server thread/INFO]: <NonGP33M> 2 ต่อ
-[19:09:09] [Server thread/INFO]: <Porkungl> กูไปขุดถ่านมา 3 สแตก
-[19:10:23] [Server thread/INFO]: <NonGP33M> ok
-[19:10:28] [Server thread/INFO]: <Porkungl> ไอพวกไร้อารยะธรรรม
-[19:10:32] [Server thread/INFO]: <NonGP33M> 55555
-[19:10:36] [Server thread/INFO]: <Porkungl> ไม่รู้จักต่อคิว
-[19:10:38] [Server thread/INFO]: <NonGP33M> ไม่รู้จักการเข้าแถว
-[19:10:41] [Server thread/INFO]: <NonGP33M> 555555
-[19:10:44] [Server thread/INFO]: <Porkungl> ใช่
-[19:11:30] [Server thread/INFO]: <Porkungl> ท่านครับๆๆ เกิดการปทุษร้ายย
-[19:11:39] [Server thread/INFO]: <NonGP33M> แม่งกระโดดลงไปเอง
-[19:12:38] [Server thread/INFO]: <NonGP33M> เราใช้ทรายแดงปะวะ
-[19:12:46] [Server thread/INFO]: <NonGP33M> มีคนเอาเชือกมาแจก
-[19:12:50] [Server thread/INFO]: <Porkungl> อะไรคือทรายแดงวะ
-[19:13:22] [Server thread/INFO]: <NonGP33M> ลงมา
-[19:13:53] [Server thread/INFO]: <Porkungl> ไหน
-[19:14:02] [Server thread/INFO]: <NonGP33M> ในตัว wanderer
-[19:14:27] [Server thread/INFO]: <Porkungl> ไม่น่าใช้นะ
-[19:14:36] [Server thread/INFO]: <NonGP33M> Kill
-[19:15:14] [Server thread/INFO]: <NonGP33M> F3 + B
-[19:15:24] [Server thread/INFO]: <NonGP33M> นอน
-[19:30:30] [Server thread/INFO]: <Porkungl> มาดิสดิ๊
-[19:30:34] [Server thread/INFO]: <Porkungl> เหงา
-[19:30:44] [Server thread/INFO]: <NonGP33M> คุยกับแฟนอะดิ
-[19:30:48] [Server thread/INFO]: <Porkungl> เคร
-[19:30:58] [Server thread/INFO]: <Porkungl> ลากมากด้วยๆ
-[19:31:08] [Server thread/INFO]: <Porkungl> กูเหงาาา
-[20:15:11] [Server thread/INFO]: Stopping server
-[20:15:11] [Server thread/INFO]: Saving players
-[20:15:11] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
-	at ahq$1.run(SourceFile:89) ~[server-1.19.4.jar:?]
+[11:09:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:09:05] [ServerMain/INFO]: Loaded 7 recipes
+[11:09:06] [ServerMain/INFO]: Loaded 1179 advancements
+[11:09:06] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[11:09:06] [Server thread/INFO]: Loading properties
+[11:09:06] [Server thread/INFO]: Default game type: SURVIVAL
+[11:09:06] [Server thread/INFO]: Generating keypair
+[11:09:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:09:07] [Server thread/INFO]: Using epoll channel type
+[11:09:07] [Server thread/INFO]: Preparing level "world"
+[11:09:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:09:21] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[11:09:21] [Worker-Main-1/INFO]: Preparing spawn area: 43%
+[11:09:22] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[11:09:22] [Server thread/INFO]: Time elapsed: 11270 ms
+[11:09:22] [Server thread/INFO]: Done (15.364s)! For help, type "help"
+[11:14:15] [User Authenticator #1/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
+[11:14:15] [Server thread/INFO]: NonGP33M[/49.228.89.158:26340] logged in with entity id 141 at (20.83826039917913, 91.0, 583.4306561577148)
+[11:14:15] [Server thread/INFO]: NonGP33M joined the game
+[11:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[11:16:36] [User Authenticator #2/INFO]: UUID of player Porkungl is 025efa1e-7251-4937-b30a-cfa3aa229100
+[11:16:36] [Server thread/INFO]: Porkungl[/161.246.145.17:28623] logged in with entity id 1966 at (25.810293411507278, 63.0, 606.2349451723361)
+[11:16:36] [Server thread/INFO]: Porkungl joined the game
+[11:18:06] [Server thread/INFO]: <Porkungl> ภีม
+[11:18:14] [Server thread/INFO]: <Porkungl> ทำไรต่อดีวะ
+[11:18:17] [Server thread/INFO]: <Porkungl> 555555
+[11:20:25] [Server thread/INFO]: <NonGP33M> ไม่รู้ว่ะ
+[11:20:35] [Server thread/INFO]: <NonGP33M> ดิสไหน
+[11:20:44] [Server thread/INFO]: <Porkungl> ดิสมึง
+[11:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[12:00:54] [Server thread/INFO]: NonGP33M lost connection: Disconnected
+[12:00:54] [Server thread/INFO]: NonGP33M left the game
+[12:01:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:01:04] [Server thread/INFO]: หะ�ห�stop<--[HERE]
+[12:01:07] [Server thread/INFO]: Stopping the server
+[12:01:07] [Server thread/INFO]: Stopping server
+[12:01:07] [Server thread/INFO]: Saving players
+[12:01:07] [Server thread/INFO]: Saving worlds
+[12:01:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:01:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:01:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
