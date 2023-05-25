@@ -1,65 +1,52 @@
-[11:09:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:09:05] [ServerMain/INFO]: Loaded 7 recipes
-[11:09:06] [ServerMain/INFO]: Loaded 1179 advancements
-[11:09:06] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[11:09:06] [Server thread/INFO]: Loading properties
-[11:09:06] [Server thread/INFO]: Default game type: SURVIVAL
-[11:09:06] [Server thread/INFO]: Generating keypair
-[11:09:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:09:07] [Server thread/INFO]: Using epoll channel type
-[11:09:07] [Server thread/INFO]: Preparing level "world"
-[11:09:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:09:21] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[11:09:21] [Worker-Main-1/INFO]: Preparing spawn area: 43%
-[11:09:22] [Worker-Main-3/INFO]: Preparing spawn area: 75%
-[11:09:22] [Server thread/INFO]: Time elapsed: 11270 ms
-[11:09:22] [Server thread/INFO]: Done (15.364s)! For help, type "help"
-[11:14:15] [User Authenticator #1/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
-[11:14:15] [Server thread/INFO]: NonGP33M[/49.228.89.158:26340] logged in with entity id 141 at (20.83826039917913, 91.0, 583.4306561577148)
-[11:14:15] [Server thread/INFO]: NonGP33M joined the game
-[11:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
-[11:16:36] [User Authenticator #2/INFO]: UUID of player Porkungl is 025efa1e-7251-4937-b30a-cfa3aa229100
-[11:16:36] [Server thread/INFO]: Porkungl[/161.246.145.17:28623] logged in with entity id 1966 at (25.810293411507278, 63.0, 606.2349451723361)
-[11:16:36] [Server thread/INFO]: Porkungl joined the game
-[11:18:06] [Server thread/INFO]: <Porkungl> ภีม
-[11:18:14] [Server thread/INFO]: <Porkungl> ทำไรต่อดีวะ
-[11:18:17] [Server thread/INFO]: <Porkungl> 555555
-[11:20:25] [Server thread/INFO]: <NonGP33M> ไม่รู้ว่ะ
-[11:20:35] [Server thread/INFO]: <NonGP33M> ดิสไหน
-[11:20:44] [Server thread/INFO]: <Porkungl> ดิสมึง
-[11:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[12:00:54] [Server thread/INFO]: NonGP33M lost connection: Disconnected
-[12:00:54] [Server thread/INFO]: NonGP33M left the game
-[12:01:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[12:01:04] [Server thread/INFO]: หะ�ห�stop<--[HERE]
-[12:01:07] [Server thread/INFO]: Stopping the server
-[12:01:07] [Server thread/INFO]: Stopping server
-[12:01:07] [Server thread/INFO]: Saving players
-[12:01:07] [Server thread/INFO]: Saving worlds
-[12:01:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:01:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:01:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:01:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:39:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:39:50] [ServerMain/INFO]: Loaded 7 recipes
+[21:39:50] [ServerMain/INFO]: Loaded 1179 advancements
+[21:39:51] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[21:39:51] [Server thread/INFO]: Loading properties
+[21:39:51] [Server thread/INFO]: Default game type: SURVIVAL
+[21:39:51] [Server thread/INFO]: Generating keypair
+[21:39:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:39:51] [Server thread/INFO]: Using epoll channel type
+[21:39:51] [Server thread/INFO]: Preparing level "world"
+[21:39:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:40:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:40:03] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[21:40:04] [Worker-Main-3/INFO]: Preparing spawn area: 49%
+[21:40:04] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[21:40:05] [Server thread/INFO]: Time elapsed: 9193 ms
+[21:40:05] [Server thread/INFO]: Done (13.296s)! For help, type "help"
+[21:44:48] [User Authenticator #1/INFO]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
+[21:44:48] [Server thread/INFO]: NonGP33M[/49.228.89.158:1437] logged in with entity id 120 at (-337.9742348521329, 63.0, 268.109565149722)
+[21:44:48] [Server thread/INFO]: NonGP33M joined the game
+[21:44:57] [Server thread/INFO]: NonGP33M lost connection: Disconnected
+[21:44:57] [Server thread/INFO]: NonGP33M left the game
+[21:52:58] [Server thread/INFO]: Stopping server
+[21:52:58] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at ahq$1.run(SourceFile:89) ~[server-1.19.4.jar:?]
