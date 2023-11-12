@@ -1,0 +1,9 @@
+VillageWoodMill,-3802,-3786,1816,1829
+P_VillageFarmhouse,-3796,-3784,1846,1858
+VillageTriplets,-3780,-3766,1846,1860
+VillageHouseRich,-3802,-3783,1860,1875
+P_VillageInn,-3824,-3815,1826,1837
+RLCraft_RuinsParkour,-3708,-3616,1689,1789
+SmallWoodenCottage,-3709,-3698,1839,1847
+VillageGuardTower,-3827,-3815,1846,1858
+SmallWoodenCottage1,-3708,-3697,1867,1873
