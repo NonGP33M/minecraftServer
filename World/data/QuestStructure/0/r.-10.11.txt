@@ -1,0 +1,8 @@
+ClayWaterMound1,-5618,-5608,5634,5645
+RLCraft_DecentSkeleton,-5545,-5545,5806,5806
+RLCraft_UndergroundRuin3,-5548,-5540,5800,5808
+StonePlantMound3,-5518,-5509,5873,5884
+RLCraft_DecentSpider,-5434,-5434,5785,5785
+RLCraft_UndergroundRuin3,-5437,-5429,5783,5791
+ShrineSmallEarth,-5498,-5486,5878,5890
+StoneLeafMound,-5368,-5361,5830,5839

@@ -1,0 +1,4 @@
+StonePlantMound2,-9721,-9709,3639,3652
+StonePlantMound,-9708,-9703,3703,3708
+UndergroundTreeoid,-9729,-9706,3690,3716
+StoneLeafMound,-9667,-9658,3704,3711

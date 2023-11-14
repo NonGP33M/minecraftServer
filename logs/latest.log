@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [02:02:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
 [02:02:49] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
 [02:02:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
@@ -154,3 +155,484 @@
 [02:02:51] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
 [02:02:51] [main/ERROR] [mixin]: Mixin config mixins.mixincompat.json does not specify "minVersion" property
 [02:02:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+=======
+[04:43:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Boulderdash In Dimension: 0 Duration: 60secs
+[04:44:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Boulderdash
+[09:59:03] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
+[09:59:03] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[09:59:03] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[09:59:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[09:59:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: NonGP33M[/161.246.5.204:50191] logged in with entity id 459239 at (1486.514648558607, 63.0, -16.9840079087685)
+[09:59:04] [Server thread/INFO] [dsurround]: Player [NonGP33M] connected with Dynamic Surroundings 3.6.2.1
+[09:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M joined the game
+[09:59:04] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player NonGP33M
+[09:59:04] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: NonGP33M
+[09:59:04] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: NonGP33M
+[09:59:04] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player NonGP33M
+[09:59:04] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player NonGP33M
+[09:59:04] [Server thread/INFO] [XAT]: Syncing Config to NonGP33M
+[09:59:05] [Thread-2371/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0.
+[10:01:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[10:01:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[10:06:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Abaia  Lvl 3
+[10:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was burnt to a crisp whilst fighting Cinder  Lvl 3
+[10:07:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was pummeled by Jengu  Lvl 3
+[10:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was turned into KFC by a dragon
+[10:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Kobold  Lvl 3
+[10:20:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was incinerated by a dragon
+[10:20:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M went up in flames
+[10:22:15] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Porkungl is 025efa1e-7251-4937-b30a-cfa3aa229100
+[10:22:15] [Netty Epoll Server IO #14/INFO] [FML]: Client protocol version 2
+[10:22:15] [Netty Epoll Server IO #14/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[10:22:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:22:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Porkungl[/161.246.144.229:8966] logged in with entity id 500541 at (8694.5, 84.0, -1311.5)
+[10:22:16] [Server thread/INFO] [dsurround]: Player [Porkungl] connected with Dynamic Surroundings 3.6.2.1
+[10:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl joined the game
+[10:22:16] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Porkungl
+[10:22:16] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Porkungl
+[10:22:16] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Porkungl
+[10:22:16] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Porkungl
+[10:22:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Porkungl
+[10:22:16] [Server thread/INFO] [XAT]: Syncing Config to Porkungl
+[10:22:17] [Thread-2413/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 025efa1e-7251-4937-b30a-cfa3aa229100.
+[10:22:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4147ms behind, skipping 82 tick(s)
+[10:22:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5192ms behind, skipping 103 tick(s)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[10:25:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[10:25:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl died from hypothermia
+[10:25:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3176ms behind, skipping 63 tick(s)
+[10:25:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:25:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:25:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:25:43] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:25:43] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:25:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:25:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7278ms behind, skipping 145 tick(s)
+[10:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Tremor  Lvl 3
+[10:27:49] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
+[10:27:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: NonGP33M lost connection: You logged in from another location
+[10:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M left the game
+[10:27:50] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[10:27:50] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[10:27:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:27:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: NonGP33M[/161.246.5.204:63702] logged in with entity id 511875 at (1661.699999988079, 61.0, 261.3762355567829)
+[10:27:50] [Server thread/INFO] [dsurround]: Player [NonGP33M] connected with Dynamic Surroundings 3.6.2.1
+[10:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M joined the game
+[10:27:50] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player NonGP33M
+[10:27:50] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: NonGP33M
+[10:27:50] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: NonGP33M
+[10:27:50] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player NonGP33M
+[10:27:50] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player NonGP33M
+[10:27:50] [Server thread/INFO] [XAT]: Syncing Config to NonGP33M
+[10:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl has made the advancement [Stone Age]
+[10:30:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was pummeled by Eyewig  Lvl 3
+[10:30:16] [Thread-2430/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0.
+[10:31:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Zombie
+[10:32:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2273ms behind, skipping 45 tick(s)
+[10:32:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3616ms behind, skipping 72 tick(s)
+[10:32:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Ventoraptor  Lvl 3
+[10:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was struck by lightning
+[10:33:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3188ms behind, skipping 63 tick(s)
+[10:33:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7229ms behind, skipping 144 tick(s)
+[10:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was shot by Skeleton
+[10:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was shot by Skeleton
+[10:34:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2323ms behind, skipping 46 tick(s)
+[10:35:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ 51...
+[10:35:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": 1801, "y": 0, "z": 657}...
+[10:35:33] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": 1801, "y": 0, "z": 657}.
+[10:35:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[10:35:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[10:36:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was killed by magic
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[10:36:13] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[10:36:30] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[10:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was pummeled by Jengu  Lvl 3
+[10:37:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3093ms behind, skipping 61 tick(s)
+[10:37:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7393ms behind, skipping 147 tick(s)
+[10:37:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Krake  Lvl 2
+[10:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Grue  Lvl 3
+[10:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was doomed to fall
+[10:39:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3524ms behind, skipping 70 tick(s)
+[10:39:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4336ms behind, skipping 86 tick(s)
+[10:40:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ 6504 | 4776 ], underground: true
+[10:43:11] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 408 and chunkZ 306...
+[10:43:12] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_ice_pyramid at {"x": 6486, "y": 0, "z": 4906}...
+[10:43:13] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_ice_pyramid at {"x": 6486, "y": 0, "z": 4906}.
+[10:43:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2192ms behind, skipping 43 tick(s)
+[10:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Aegis  Lvl 3
+[10:43:34] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -561 and chunkZ 357...
+[10:43:35] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_builtin_custom_loot at {"x": -9179, "y": 0, "z": 5673}...
+[10:43:38] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_builtin_custom_loot at {"x": -9179, "y": 0, "z": 5673}.
+[10:43:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6038ms behind, skipping 120 tick(s)
+[10:43:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6827ms behind, skipping 136 tick(s)
+[10:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Baby Jabberwock  Lvl 3
+[10:47:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2549ms behind, skipping 50 tick(s)
+[10:47:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[10:47:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[10:47:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[10:48:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7414ms behind, skipping 148 tick(s)
+[10:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Feradon  Lvl 3
+[10:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl has made the advancement [Monster Hunter]
+[10:51:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was pummeled by Lux Jengu  Lvl 3
+[10:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was shot by Skeleton
+[10:51:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2179ms behind, skipping 43 tick(s)
+[10:52:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6878ms behind, skipping 137 tick(s)
+[10:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Zombie
+[10:53:25] [Thread-2477/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 025efa1e-7251-4937-b30a-cfa3aa229100.
+[10:53:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2482ms behind, skipping 49 tick(s)
+[10:53:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3584ms behind, skipping 71 tick(s)
+[10:54:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Zombie
+[10:54:09] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (136, 88) should be (137, 88), EntityMyrmexEgg['Myrmex Egg'/605510, l='World', x=2191.82, y=40.25, z=1418.48]
+[10:54:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity iceandfire:myrmex_egg but it was marked as removed already
+[10:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Golden Sutiramu  Lvl 3
+[10:54:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Golden Sutiramu  Lvl 3
+[10:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Golden Sutiramu  Lvl 3
+[10:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Golden Sutiramu  Lvl 3
+[10:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Golden Sutiramu  Lvl 3
+[10:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Golden Sutiramu  Lvl 3
+[10:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Zombie
+[10:56:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[10:56:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3786ms behind, skipping 75 tick(s)
+[10:56:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6181ms behind, skipping 123 tick(s)
+[10:57:44] [Server thread/WARN] [Ice And Fire]: Myrmex picked up resin that wasn't thrown!
+[10:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Sutiramu  Lvl 3
+[11:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Cockatrice
+[11:00:55] [Thread-2497/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0.
+[11:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl has made the advancement [Diamonds!]
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[11:03:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[11:04:12] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[11:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was pummeled by Verdant Reaper  Lvl 2
+[11:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl has made the advancement [Sweet dreams]
+[11:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Roc  Lvl 2
+[11:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Balayang  Lvl 2
+[11:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M has made the advancement [Isn't It Iron Pick]
+[11:09:16] [User Authenticator #12/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player No5thing is ea7f3187-7b99-4bc0-8029-b3752939ebdf
+[11:09:16] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[11:09:16] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[11:09:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:09:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: No5thing[/161.246.147.170:26120] logged in with entity id 641221 at (1682.4144263252344, 68.5625, -6861.913599154465)
+[11:09:17] [Server thread/INFO] [dsurround]: Player [No5thing] connected with Dynamic Surroundings 3.6.2.1
+[11:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing joined the game
+[11:09:17] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player No5thing
+[11:09:17] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: No5thing
+[11:09:17] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: No5thing
+[11:09:17] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player No5thing
+[11:09:17] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player No5thing
+[11:09:17] [Server thread/INFO] [XAT]: Syncing Config to No5thing
+[11:09:18] [Thread-2515/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ea7f3187-7b99-4bc0-8029-b3752939ebdf.
+[11:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Eechetik  Lvl 2
+[11:13:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M died from parasites
+[11:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Zombie
+[11:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was pummeled by Spriggan  Lvl 2
+[11:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Abaia  Lvl 2
+[11:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Baby Abaia  Lvl 2
+[11:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:17:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M withered away
+[11:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:19:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Jouste  Lvl 2
+[11:19:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was slain by Zombie Villager
+[11:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Myrmex Soldier
+[11:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl was pummeled by Wisp  Lvl 2
+[11:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Myrmex Soldier
+[11:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Skeleton
+[11:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Myrmex Soldier
+[11:23:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: No5thing moved wrongly!
+[11:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was turned into KFC by a dragon
+[11:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was turned into KFC by a dragon
+[11:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was incinerated by a dragon
+[11:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Fire Dragon
+[11:23:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was turned into KFC by a dragon
+[11:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing walked into fire whilst fighting Tremor  Lvl 2
+[11:28:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl has made the advancement [Suit Up]
+[11:28:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[11:28:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2161ms behind, skipping 43 tick(s)
+[11:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was pummeled by Remobra  Lvl 2
+[11:29:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3510ms behind, skipping 70 tick(s)
+[11:29:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Cave Spider
+[11:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Keppel Balayang  Lvl 2
+[11:31:31] [Thread-2577/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0.
+[11:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Zombie Villager
+[11:33:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Porkungl lost connection: Disconnected
+[11:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl left the game
+[11:34:38] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@7ea80a22[id=<null>,name=ZionSS,properties={},legacy=false] (/161.246.147.14:12543) lost connection: Disconnected
+[11:35:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Cave Spider
+[11:35:21] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@7e9c5023[id=<null>,name=ZionSS,properties={},legacy=false] (/161.246.147.14:12545) lost connection: Disconnected
+[11:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was incinerated by a dragon
+[11:38:42] [User Authenticator #13/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Porkungl is 025efa1e-7251-4937-b30a-cfa3aa229100
+[11:38:42] [Netty Epoll Server IO #14/INFO] [FML]: Client protocol version 2
+[11:38:42] [Netty Epoll Server IO #14/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[11:38:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:38:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Porkungl[/161.246.144.229:8968] logged in with entity id 758466 at (589.7069532291733, 104.0, 6132.605158174646)
+[11:38:43] [Server thread/INFO] [dsurround]: Player [Porkungl] connected with Dynamic Surroundings 3.6.2.1
+[11:38:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl joined the game
+[11:38:43] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Porkungl
+[11:38:43] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Porkungl
+[11:38:43] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Porkungl
+[11:38:43] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Porkungl
+[11:38:43] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Porkungl
+[11:38:43] [Server thread/INFO] [XAT]: Syncing Config to Porkungl
+[11:38:43] [Thread-2593/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 025efa1e-7251-4937-b30a-cfa3aa229100.
+[11:39:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[11:39:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[11:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Zombie
+[11:40:09] [Thread-2597/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ea7f3187-7b99-4bc0-8029-b3752939ebdf.
+[11:40:39] [User Authenticator #14/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ZionSS is 29f166dc-b034-4b58-b2ab-dad9dff01d94
+[11:40:39] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[11:40:39] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[11:40:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:40:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ZionSS[/161.246.147.14:12547] logged in with entity id 766151 at (6822.157805199209, 69.0, 5624.776170135321)
+[11:40:41] [Server thread/INFO] [dsurround]: Player [ZionSS] connected with Dynamic Surroundings 3.6.2.1
+[11:40:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS joined the game
+[11:40:41] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ZionSS
+[11:40:41] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: ZionSS
+[11:40:41] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: ZionSS
+[11:40:41] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player ZionSS
+[11:40:41] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player ZionSS
+[11:40:41] [Server thread/INFO] [XAT]: Syncing Config to ZionSS
+[11:40:41] [Thread-2600/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 29f166dc-b034-4b58-b2ab-dad9dff01d94.
+[11:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Lux Jouste  Lvl 2
+[11:40:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Porkungl lost connection: Disconnected
+[11:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Porkungl left the game
+[11:40:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2606ms behind, skipping 52 tick(s)
+[11:41:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[11:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS was slain by Krake
+[11:41:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13751ms behind, skipping 275 tick(s)
+[11:42:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2056ms behind, skipping 41 tick(s)
+[11:42:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[11:42:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[11:43:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2611ms behind, skipping 52 tick(s)
+[11:43:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4000ms behind, skipping 80 tick(s)
+[11:43:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Jouste  Lvl 2
+[11:43:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3088ms behind, skipping 61 tick(s)
+[11:43:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3127ms behind, skipping 62 tick(s)
+[11:44:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7952ms behind, skipping 159 tick(s)
+[11:44:27] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 9160 | 6216 ], underground: true
+[11:44:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4025ms behind, skipping 80 tick(s)
+[11:44:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2117ms behind, skipping 42 tick(s)
+[11:45:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6196ms behind, skipping 123 tick(s)
+[11:45:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3132ms behind, skipping 62 tick(s)
+[11:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS drowned
+[11:45:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4302ms behind, skipping 86 tick(s)
+[11:46:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 17198ms behind, skipping 343 tick(s)
+[11:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS suffocated in a wall
+[11:46:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2087ms behind, skipping 41 tick(s)
+[11:46:26] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -357 and chunkZ 357...
+[11:46:26] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": -5936, "y": 0, "z": 5931}...
+[11:46:29] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": -5936, "y": 0, "z": 5931}.
+[11:46:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: No5thing moved too quickly! 2.4592968394683794,1.0,-9.657916798482802
+[11:46:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: No5thing moved wrongly!
+[11:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was slain by Spider
+[11:47:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 18517ms behind, skipping 370 tick(s)
+[11:47:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2997ms behind, skipping 59 tick(s)
+[11:47:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2276ms behind, skipping 45 tick(s)
+[11:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS was slain by Necrovore  Lvl 2
+[11:49:53] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=7960, y=43, z=-6120}
+[11:49:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3939ms behind, skipping 78 tick(s)
+[11:50:06] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ 7976 | -5976 ], underground: false
+[11:50:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6570ms behind, skipping 131 tick(s)
+[11:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS was pummeled by Jengu  Lvl 2
+[11:50:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2228ms behind, skipping 44 tick(s)
+[11:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was shot by Skeleton
+[11:51:00] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=4216, y=40, z=-6280}
+[11:51:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 12663ms behind, skipping 253 tick(s)
+[11:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Necrovore  Lvl 2
+[11:52:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite
+[11:52:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3741ms behind, skipping 74 tick(s)
+[11:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite  Lvl 2
+[11:53:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2705ms behind, skipping 54 tick(s)
+[11:53:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[11:53:18] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[11:53:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5098ms behind, skipping 101 tick(s)
+[11:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite  Lvl 2
+[11:53:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10951ms behind, skipping 219 tick(s)
+[11:53:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6734ms behind, skipping 134 tick(s)
+[11:54:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite  Lvl 2
+[11:54:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5297ms behind, skipping 105 tick(s)
+[11:54:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5011ms behind, skipping 100 tick(s)
+[11:54:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[11:54:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[11:54:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8999ms behind, skipping 179 tick(s)
+[11:55:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4077ms behind, skipping 81 tick(s)
+[11:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite
+[11:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS was slain by Warg  Lvl 2
+[11:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Necrovore  Lvl 2
+[11:55:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5122ms behind, skipping 102 tick(s)
+[11:55:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was pummeled by Jengu  Lvl 2
+[11:55:35] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -4696 | -6008 ], underground: true
+[11:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Dark Gorgomite
+[11:55:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 15228ms behind, skipping 304 tick(s)
+[11:56:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2659ms behind, skipping 53 tick(s)
+[11:56:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3501ms behind, skipping 70 tick(s)
+[11:56:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2172ms behind, skipping 43 tick(s)
+[11:57:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4930ms behind, skipping 98 tick(s)
+[11:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing has made the advancement [Acquire Hardware]
+[11:57:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[11:57:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2108ms behind, skipping 42 tick(s)
+[11:57:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2597ms behind, skipping 51 tick(s)
+[11:57:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2198ms behind, skipping 43 tick(s)
+[11:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was pummeled by Ashen Erepede  Lvl 2
+[11:57:58] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -306 and chunkZ -357...
+[11:57:58] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -4892, "y": 0, "z": -5759}...
+[11:58:00] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -4892, "y": 0, "z": -5759}.
+[11:58:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5443ms behind, skipping 108 tick(s)
+[11:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was pummeled by Ashen Erepede  Lvl 2
+[11:58:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4154ms behind, skipping 83 tick(s)
+[11:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was pummeled by Ashen Erepede  Lvl 2
+[11:58:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: NonGP33M lost connection: Disconnected
+[11:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M left the game
+[11:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was pummeled by Ashen Erepede  Lvl 2
+[11:59:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing was pummeled by Ashen Erepede  Lvl 2
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[12:01:05] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[12:01:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: No5thing lost connection: Disconnected
+[12:01:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: No5thing left the game
+[12:02:25] [User Authenticator #15/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player NonGP33M is 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0
+[12:02:25] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[12:02:25] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[12:02:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[12:02:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: NonGP33M[/161.246.5.204:54732] logged in with entity id 851975 at (1825.2952669349395, 68.0625, 653.129106211642)
+[12:02:26] [Server thread/INFO] [dsurround]: Player [NonGP33M] connected with Dynamic Surroundings 3.6.2.1
+[12:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M joined the game
+[12:02:26] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player NonGP33M
+[12:02:26] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: NonGP33M
+[12:02:26] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: NonGP33M
+[12:02:26] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player NonGP33M
+[12:02:26] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player NonGP33M
+[12:02:26] [Server thread/INFO] [XAT]: Syncing Config to NonGP33M
+[12:02:27] [Thread-2654/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 8a758e8e-10d4-4e24-8c03-d1fa56efcdb0.
+[12:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M was slain by Calpod  Lvl 2
+[12:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS has made the advancement [Sweet dreams]
+[12:12:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: NonGP33M lost connection: Timed out
+[12:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: NonGP33M left the game
+[12:12:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZionSS lost connection: Disconnected
+[12:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZionSS left the game
+[12:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
+[12:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[12:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[12:17:15] [Server thread/INFO] [AUW]: Stopping DS...
+[12:17:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[12:17:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[12:17:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[12:17:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[12:17:15] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[12:17:15] [Server thread/INFO] [FML]: Unloading dimension 0
+[12:17:15] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[12:17:15] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[12:17:15] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+>>>>>>> 51a8240364e35fff97cbffe2e2cf99312080a414

@@ -1,0 +1,10 @@
+ThreeTowers,580,611,6119,6151
+VillageWoodMill,528,544,6122,6135
+VillageForgeLarge,556,572,6121,6133
+StoneLeafMound,653,660,6136,6145
+StonePlantBoulder,688,698,6054,6064
+StonePlantMound1,690,696,6034,6040
+RLCraft_Vineyard,657,685,5941,5961
+StoneBoulder,751,760,6027,6036
+StonePlantMound4,686,693,5936,5943
+VillageLargeLibrary,720,740,5913,5932

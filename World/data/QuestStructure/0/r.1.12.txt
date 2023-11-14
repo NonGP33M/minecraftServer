@@ -1,0 +1,16 @@
+StonePlantMound4,538,545,6234,6241
+StonePlantMound4,554,561,6264,6271
+P_Village2Story,533,546,6187,6193
+P_VillageFarmhouse,528,540,6171,6183
+RLCraft_Vineyard,580,600,6154,6182
+VillageTriplets,528,542,6150,6164
+StonePlantMound2,572,584,6345,6358
+StonePlantMound,598,603,6333,6338
+StonePlantMound3,630,639,6301,6312
+DinosaurSkull,641,660,6268,6279
+RLCraft_DecentZombie,579,579,6389,6389
+RLCraft_UndergroundRuin2,574,584,6384,6391
+ShrineSmallFire,688,698,6347,6357
+UndergroundCultChamber,680,712,6218,6260
+StonePlantMound4,710,717,6222,6229
+StonePlantMound3,736,747,6176,6185

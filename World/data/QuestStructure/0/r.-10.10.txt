@@ -1,0 +1,4 @@
+PeacefulCrypt,-5627,-5611,5575,5599
+WoodWallRemains,-5539,-5511,5598,5606
+WoodWallRemains,-5531,-5523,5549,5577
+SmallWoodenCottage,-5372,-5361,5610,5618

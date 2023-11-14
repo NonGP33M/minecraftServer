@@ -1,0 +1,4 @@
+SmallAbandonedMine,-616,-601,5629,5654
+ShrineSmallFire,-574,-564,5654,5664
+RLCraft_DecentCaveSpider,-610,-610,5848,5848
+RLCraft_UndergroundRuin2,-615,-605,5846,5853

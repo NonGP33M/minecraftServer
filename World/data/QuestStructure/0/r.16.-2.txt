@@ -1,0 +1,8 @@
+P_Tent,8612,8621,-1287,-1278
+RLCraft_DecentZombie,8689,8689,-1226,-1226
+RLCraft_UndergroundRuin2,8687,8694,-1231,-1221
+RLCraft_BasicSkeleton,8676,8676,-1386,-1386
+RLCraft_UndergroundRuin1,8670,8679,-1392,-1383
+StoneIceBoulder,8565,8574,-1277,-1267
+IceThorn2,8663,8675,-1453,-1443
+P_WitchDungeon,8572,8589,-1216,-1182

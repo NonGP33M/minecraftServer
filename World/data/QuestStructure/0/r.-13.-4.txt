@@ -1,0 +1,3 @@
+P_WitchDungeon,-6888,-6871,-2221,-2187
+P_SkyCastle,-6931,-6890,-2280,-2239
+StonePlantBoulder,-6792,-6782,-2271,-2261

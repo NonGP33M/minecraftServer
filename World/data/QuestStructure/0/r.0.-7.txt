@@ -1,0 +1,14 @@
+RLCraft_DecentZombie,35,35,-3890,-3890
+RLCraft_UndergroundRuin3,29,37,-3895,-3887
+RLCraft_BasicWitch,-94,-94,-3825,-3825
+RLCraft_UndergroundRuin1,-100,-91,-3831,-3822
+AbandonedWoodTower,-95,-59,-3774,-3744
+SmallWoodenCottage1,158,164,-3833,-3822
+RLCraft_DecentSpider,-91,-91,-3728,-3728
+RLCraft_UndergroundRuin2,-96,-86,-3733,-3726
+RLCraft_DecentSpider,-117,-117,-3902,-3902
+RLCraft_UndergroundRuin2,-122,-112,-3904,-3897
+RLCraft_SmallUndergroundSkeleton,-76,-68,-3993,-3985
+StonePlantMound,162,167,-3941,-3936
+StonePlantMound1,150,156,-3684,-3678
+SmallFortRuins,12,42,-3675,-3643

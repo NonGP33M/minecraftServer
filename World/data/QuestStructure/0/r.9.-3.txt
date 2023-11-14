@@ -1,0 +1,6 @@
+StonePlantMound3,5031,5042,-1633,-1624
+RLCraft_SmallUndergroundSkeleton,5093,5101,-1635,-1627
+StoneLeafMound,5025,5034,-1705,-1698
+OldWatchtower,4995,5007,-1723,-1710
+RLCraft_SmallUndergroundSkeleton,5018,5026,-1818,-1810
+RLCraft_SmallUndergroundSkeleton,4961,4969,-1791,-1783

@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,-4135,-4127,-7519,-7511
+StonePlantMound2,-4155,-4143,-7587,-7574
+RLCraft_SmallUndergroundSkeleton,-4138,-4130,-7595,-7587
+ShrineSmallFire,-4103,-4093,-7545,-7535
+StonePlantMound2,-4182,-4170,-7647,-7634
+StoneBoulder,-4254,-4245,-7607,-7598
+StonePlantMound,-4228,-4223,-7650,-7645
+StoneBoulder,-4156,-4147,-7668,-7659
+WoodThornBig,-4247,-4234,-7440,-7427
+WoodWallRemains,-4269,-4261,-7424,-7396
+ShrineSmallFire,-4334,-4324,-7620,-7610

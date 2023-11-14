@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,8743,8751,-1322,-1314
+StoneIceBoulder1,8701,8711,-1453,-1443
+StoneIceBoulder,8796,8805,-1246,-1236
+StoneIceBoulder2,8725,8734,-1439,-1430
+StoneIceBoulder1,8832,8842,-1232,-1222
+StoneIceBoulder2,8864,8873,-1273,-1264
+RLCraft_SmallUndergroundSkeleton,8855,8863,-1368,-1360
+DinosaurSkull,8799,8818,-1166,-1155
+StoneIceBoulder1,8867,8877,-1265,-1255

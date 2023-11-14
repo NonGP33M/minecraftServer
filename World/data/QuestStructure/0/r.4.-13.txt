@@ -1,0 +1,2 @@
+SmallWoodenCottage2,2054,2062,-6942,-6934
+StoneLeafMound,2045,2054,-7103,-7096

@@ -1,0 +1,4 @@
+P_WitchDungeon,-662,-628,5560,5577
+ShrineSmallFire,-726,-716,5531,5541
+StoneLeafMound,-616,-607,5572,5579
+StonePlantMound2,-592,-579,5618,5630
