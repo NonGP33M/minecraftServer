@@ -1,0 +1,14 @@
+SmallAbandonedOutpost,9143,9173,5929,5951
+StoneBoulder,9056,9065,5915,5924
+StonePlantMound4,9041,9048,5940,5947
+RLCraft_DecentZombie,9029,9029,5899,5899
+RLCraft_UndergroundRuin3,9027,9035,5896,5904
+StonePlantMound,8972,8977,5817,5822
+StonePlantMound2,9032,9045,5789,5801
+RLCraft_SmallUndergroundSkeleton,8939,8947,5935,5943
+StonePlantBoulder,8947,8957,6033,6043
+SmallOutpost,8958,8988,6019,6041
+StonePlantMound4,8990,8997,5790,5797
+StonePlantMound,8937,8942,5812,5817
+RLCraft_DecentCaveSpider,9049,9049,6105,6105
+RLCraft_UndergroundRuin3,9046,9054,6099,6107

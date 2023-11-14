@@ -1,0 +1,6 @@
+PirateChest,2173,2177,1551,1555
+RLCraft_UndergroundFarm,2141,2183,1530,1573
+SeasonsGreenhouse,2123,2135,1575,1585
+RLCraft_Vineyard,2106,2134,1606,1626
+SeasonsGreenhouse,2062,2072,1606,1618
+FallenPalmTree,2334,2338,2016,2026

@@ -1,0 +1,5 @@
+SmallWoodenCottage2,-9837,-9829,3586,3594
+ShrineSmallFire,-9755,-9745,3583,3593
+StonePlantMound3,-9911,-9902,3603,3614
+RLCraft_SmallUndergroundSkeleton,-9737,-9729,3595,3603
+PeacefulCrypt,-9913,-9889,3629,3645

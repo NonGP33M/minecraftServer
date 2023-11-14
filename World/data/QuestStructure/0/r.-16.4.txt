@@ -1,0 +1,2 @@
+StonePlantMound3,-8202,-8193,2146,2157
+RLCraft_SmallUndergroundSkeleton,-8215,-8207,2282,2290

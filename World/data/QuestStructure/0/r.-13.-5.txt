@@ -1,0 +1,9 @@
+StonePlantMound4,-6894,-6887,-2833,-2826
+RLCraft_DecentZombie,-6936,-6936,-2993,-2993
+RLCraft_UndergroundRuin2,-6941,-6931,-2995,-2988
+SmallFortRuins,-6765,-6733,-2906,-2876
+StonePlantMound4,-7093,-7086,-2869,-2862
+StonePlantMound1,-7108,-7102,-3009,-3003
+StonePlantMound2,-7125,-7112,-3022,-3010
+RLCraft_BasicZombie,-6870,-6870,-3058,-3058
+RLCraft_UndergroundRuin1,-6876,-6867,-3061,-3052

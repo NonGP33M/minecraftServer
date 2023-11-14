@@ -1,0 +1,4 @@
+MysticalTree,-5661,-5646,5622,5638
+StonePlantMound1,-5668,-5662,5603,5609
+StoneBoulder,-5717,-5708,5583,5592
+RLCraft_SmallUndergroundSkeleton,-5704,-5696,5554,5562

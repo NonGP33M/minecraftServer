@@ -1,0 +1,7 @@
+RLCraft_LargeUndergroundTown,1974,2087,1282,1419
+RLCraft_SmallUndergroundSkeleton,1911,1919,1329,1337
+RLCraft_DecentSkeleton,1977,1977,1041,1041
+RLCraft_UndergroundRuin2,1972,1982,1039,1046
+SmallClockworkSite,1928,1950,1022,1041
+P_DesertDungeon,1936,1988,1029,1082
+DinosaurSkull,1717,1728,1020,1039

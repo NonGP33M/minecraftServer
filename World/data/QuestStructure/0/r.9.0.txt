@@ -1,0 +1,3 @@
+StonePlantBoulder,4621,4631,274,284
+SmallWoodenCottage,4672,4683,290,298
+RLCraft_SmallUndergroundSkeleton,4644,4652,339,347

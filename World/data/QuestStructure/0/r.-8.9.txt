@@ -1,0 +1,4 @@
+StoneIceBoulder1,-4138,-4128,4930,4940
+ShrineSmallEarth,-4148,-4136,4887,4899
+RLCraft_DecentZombie,-4101,-4101,4649,4649
+RLCraft_UndergroundRuin3,-4103,-4095,4646,4654

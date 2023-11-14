@@ -1,0 +1,10 @@
+P_VillageFarmhouse,-2757,-2745,922,934
+StoneLeafMound,-2680,-2673,958,967
+StoneBoulder,-2601,-2592,880,889
+RLCraft_SmallUndergroundSkeleton,-2834,-2826,901,909
+StonePlantMound,-2604,-2599,953,958
+StonePlantBoulder,-2604,-2594,957,967
+StonePlantMound2,-2571,-2559,987,1000
+RLCraft_DecentCaveSpider,-2888,-2888,741,741
+RLCraft_UndergroundRuin2,-2893,-2883,739,746
+RLCraft_SmallUndergroundSkeleton,-2959,-2951,830,838

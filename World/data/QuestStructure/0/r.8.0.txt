@@ -1,0 +1,3 @@
+PeacefulCrypt,4536,4560,205,221
+P_RuinedHouse,4544,4569,282,299
+ShrineSmallAir,4494,4502,193,201

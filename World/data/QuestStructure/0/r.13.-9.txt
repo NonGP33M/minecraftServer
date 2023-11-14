@@ -1,0 +1,9 @@
+RLCraft_BasicZombie,6873,6873,-5067,-5067
+RLCraft_UndergroundRuin1,6867,6876,-5070,-5061
+RLCraft_BasicCaveSpider,7104,7104,-5003,-5003
+RLCraft_UndergroundRuin1,7098,7107,-5009,-5000
+ForestBeacon,7081,7089,-4819,-4811
+SmallWoodenCottage2,6984,6992,-4751,-4743
+ShrineSmallWater,6757,6765,-4815,-4807
+ShrineSmallWater,6790,6798,-4675,-4667
+StonePlantMound2,6964,6976,-4685,-4672

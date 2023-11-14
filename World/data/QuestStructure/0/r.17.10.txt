@@ -1,0 +1,4 @@
+WoodWallRemains,8784,8812,5214,5222
+StonePlantMound4,8725,8732,5190,5197
+StonePlantMound2,8890,8903,5134,5146
+RLCraft_SmallUndergroundSkeleton,8900,8908,5175,5183

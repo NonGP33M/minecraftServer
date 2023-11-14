@@ -1,0 +1,3 @@
+WoodWallRemains,-9781,-9753,-5752,-5744
+StonePlantMound,-9926,-9921,-5742,-5737
+SmallWoodenCottage,-9969,-9958,-5675,-5667

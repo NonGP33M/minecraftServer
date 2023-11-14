@@ -1,0 +1,4 @@
+RLCraft_4Towers,9191,9251,-8579,-8527
+RLCraft_SmallUndergroundSkeleton,9231,9239,-8381,-8373
+RLCraft_DecentWitch,9226,9226,-8301,-8301
+RLCraft_UndergroundRuin3,9220,9228,-8304,-8296

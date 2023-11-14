@@ -1,0 +1,6 @@
+UndergroundTreeoid,3518,3544,-140,-117
+DinosaurSkull,3518,3537,-185,-174
+SmallWoodenCottage2,3403,3411,-218,-210
+RLCraft_4Towers,3450,3502,-81,-21
+StonePlantMound,3339,3344,-224,-219
+StonePlantMound4,3389,3396,-330,-323
