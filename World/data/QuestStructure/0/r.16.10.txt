@@ -1,2 +1,0 @@
-StonePlantBoulder,8615,8625,5119,5129
-StoneBoulder,8548,8557,5226,5235

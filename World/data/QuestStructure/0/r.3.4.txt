@@ -1,6 +1,0 @@
-DinosaurSkeleton,1940,1949,2058,2104
-VillageGuardTower,1990,2002,2180,2192
-P_VillageFarmhouse,2026,2038,2182,2194
-P_VillageHouse,2025,2034,2195,2206
-VillageSavannaGlassworks,2003,2013,2217,2229
-VillageSavannaLibrary,2029,2039,2217,2228

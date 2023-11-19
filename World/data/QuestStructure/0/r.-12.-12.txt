@@ -1,8 +1,0 @@
-RLCraft_DecentCaveSpider,-6636,-6636,-6653,-6653
-RLCraft_UndergroundRuin3,-6639,-6631,-6655,-6647
-DinosaurSkull,-6567,-6556,-6587,-6568
-RLCraft_BasicZombie,-6468,-6468,-6635,-6635
-RLCraft_UndergroundRuin1,-6471,-6462,-6641,-6632
-ForestBeacon,-6583,-6575,-6567,-6559
-StoneLeafMound,-6547,-6540,-6566,-6557
-P_Crater,-6544,-6468,-6625,-6542

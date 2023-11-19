@@ -1,4 +1,0 @@
-BrickHenge,-4211,-4195,-7692,-7676
-SmallWoodenCottage1,-4221,-4210,-7695,-7689
-RLCraft_DecentSkeleton,-4218,-4218,-7709,-7709
-RLCraft_UndergroundRuin2,-4223,-4213,-7714,-7707

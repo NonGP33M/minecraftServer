@@ -1,3 +1,0 @@
-RLCraft_DecentWitch,6956,6956,-5269,-5269
-RLCraft_UndergroundRuin3,6950,6958,-5274,-5266
-P_DesertDungeon,7109,7161,-5256,-5203

@@ -1,5 +1,0 @@
-RLCraft_PlainsCamp,5119,5158,-1595,-1549
-DinosaurSkeleton,5159,5168,-1737,-1691
-UndergroundTreeoid,5207,5230,-1612,-1586
-RLCraft_DecentCaveSpider,5200,5200,-1549,-1549
-RLCraft_UndergroundRuin2,5195,5205,-1554,-1547

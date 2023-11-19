@@ -1,8 +1,0 @@
-DinosaurSkull,9418,9437,-1258,-1247
-ShrineSmallEarth,9350,9362,-1136,-1124
-RLCraft_BasicWitch,9286,9286,-1207,-1207
-RLCraft_UndergroundRuin1,9283,9292,-1210,-1201
-DinosaurSkull,9293,9312,-1332,-1321
-IceThorn4,9572,9598,-1100,-1084
-RLCraft_SmallUndergroundSkeleton,9571,9579,-1370,-1362
-StoneIceBoulder,9608,9617,-1149,-1139

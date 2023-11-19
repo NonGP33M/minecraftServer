@@ -1,5 +1,0 @@
-StonePlantMound4,440,447,6243,6250
-SmallFortRuinsJapanese,488,534,6355,6401
-RLCraft_BasicWitch,388,388,6276,6276
-RLCraft_UndergroundRuin1,382,391,6270,6279
-StonePlantBoulder,373,383,6382,6392

@@ -1,7 +1,0 @@
-MeteorSite,8078,8093,-5998,-5968
-RLCraft_BasicWitch,7779,7779,-6138,-6138
-RLCraft_UndergroundRuin1,7776,7785,-6144,-6135
-StonePlantBoulder,8034,8044,-5954,-5944
-StonePlantMound2,7975,7988,-5935,-5923
-StonePlantMound2,7845,7857,-5924,-5911
-StoneBoulder,7810,7819,-5913,-5904

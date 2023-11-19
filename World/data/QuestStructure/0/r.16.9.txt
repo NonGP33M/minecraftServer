@@ -1,3 +1,0 @@
-P_RuinedHouse,8686,8703,5047,5072
-StoneBoulder,8692,8701,4999,5008
-StonePlantMound,8604,8609,5099,5104

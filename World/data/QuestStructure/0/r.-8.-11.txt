@@ -1,6 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,-4537,-4529,-5820,-5812
-WoodWallRemains,-4486,-4478,-6051,-6023
-StonePlantMound1,-4528,-4522,-6073,-6067
-StoneBoulder,-4439,-4430,-5931,-5922
-SmallClockworkSite,-4456,-4437,-6078,-6056
-RLCraft_UndergroundFarm,-4443,-4400,-5977,-5935

@@ -1,4 +1,0 @@
-RLCraft_UndergroundFarm,1947,1989,1577,1620
-RLCraft_SmallUndergroundSkeleton,1922,1930,1714,1722
-RLCraft_DecentZombie,2034,2034,1748,1748
-RLCraft_UndergroundRuin3,2032,2040,1745,1753

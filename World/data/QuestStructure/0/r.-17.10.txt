@@ -1,2 +1,0 @@
-StonePlantMound,-8808,-8803,5622,5627
-StonePlantMound1,-9109,-9103,5575,5581

@@ -1,4 +1,0 @@
-RLCraft_AgentStarbuck_VikingHouse,3271,3306,3579,3628
-RLCraft_UndergroundFarm,3070,3113,3578,3620
-ShrineSmallWater,3503,3511,3843,3851
-StoneIceBoulder2,3574,3583,3625,3634

@@ -1,3 +1,0 @@
-StonePlantMound2,1517,1530,-7138,-7126
-DesertHut,1529,1539,-7055,-7046
-RLCraft_SmallUndergroundSkeleton,1458,1466,-6685,-6677

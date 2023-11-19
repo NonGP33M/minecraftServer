@@ -1,9 +1,0 @@
-MeteorSite,-4070,-4040,-7514,-7499
-VillageTriplets,-4042,-4028,-7439,-7425
-VillageTriplets,-4042,-4028,-7439,-7425
-P_Village2Story,-4064,-4051,-7402,-7396
-ShrineSmallFire,-4017,-4007,-7658,-7648
-VillageWoodMill,-4042,-4026,-7400,-7387
-P_VillageBlacksmith,-4022,-3989,-7402,-7388
-StonePlantBoulder,-3999,-3989,-7451,-7441
-VillageMarketplace,-4005,-3991,-7419,-7405
