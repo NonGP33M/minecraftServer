@@ -1,0 +1,16 @@
+RLCraft_DecentSpider,606,606,1045,1045
+RLCraft_UndergroundRuin2,601,608,1040,1050
+RLCraft_LargeUndergroundTown,727,864,990,1103
+RLCraft_BasicSkeleton,526,526,1072,1072
+RLCraft_UndergroundRuin1,523,532,1069,1078
+WoodWallRemains,958,966,1113,1141
+RLCraft_PlainsCamp,847,886,1141,1187
+SmallFortRuins,798,830,1162,1192
+RLCraft_DecentZombie,826,826,1204,1204
+RLCraft_UndergroundRuin2,824,831,1199,1209
+RLCraft_BasicZombie,919,919,1250,1250
+RLCraft_UndergroundRuin1,916,925,1244,1253
+StoneLeafMound,903,910,1287,1296
+StonePlantMound,998,1003,1503,1508
+DinosaurSkull,999,1010,1491,1510
+MonolythHoly,704,718,1526,1540

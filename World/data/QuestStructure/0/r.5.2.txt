@@ -1,0 +1,5 @@
+RLCraft_BasicSkeleton,2940,2940,1138,1138
+RLCraft_UndergroundRuin1,2934,2943,1132,1141
+P_LargeShip,2805,2823,1218,1278
+BlazeSpawnerCrystal,3040,3046,1321,1327
+RLCraft_AgentStarbuck_WaterBase,2742,2759,1341,1353

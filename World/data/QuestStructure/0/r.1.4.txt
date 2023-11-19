@@ -1,0 +1,13 @@
+DinosaurSkull,526,545,2049,2060
+RLCraft_BasicCaveSpider,925,925,2051,2051
+RLCraft_UndergroundRuin1,922,931,2048,2057
+P_SmallShip,671,677,2077,2097
+RLCraft_UndergroundFarm,506,548,2262,2305
+ShrineSmallAir,532,540,2355,2363
+RLCraft_DecentSpider,615,615,2444,2444
+RLCraft_UndergroundRuin3,609,617,2439,2447
+ShrineSmallAir,894,902,2448,2456
+RLCraft_DecentSkeleton,804,804,2456,2456
+RLCraft_UndergroundRuin2,802,809,2451,2461
+RLCraft_DecentZombie,771,771,2515,2515
+RLCraft_UndergroundRuin2,766,773,2510,2520

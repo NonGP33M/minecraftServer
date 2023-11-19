@@ -1,0 +1,13 @@
+RLCraft_DecentCaveSpider,-940,-940,1624,1624
+RLCraft_UndergroundRuin3,-946,-938,1621,1629
+P_SkyCastle,-799,-758,1794,1835
+ShrineSmallFire,-839,-829,1662,1672
+P_LargeShip,-603,-543,1660,1678
+RLCraft_DecentWitch,-919,-919,1748,1748
+RLCraft_UndergroundRuin3,-924,-916,1746,1754
+UndergroundTreeoid,-572,-546,1742,1765
+TribalJungleHead,-1004,-994,1790,1800
+SmallAbandonedMine,-691,-666,1829,1844
+RLCraft_SmallUndergroundSkeleton,-644,-636,1838,1846
+P_WitchDungeon,-805,-771,1868,1885
+DinosaurSkull,-555,-544,2038,2057

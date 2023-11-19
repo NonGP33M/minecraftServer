@@ -1,0 +1,16 @@
+FallenPalmTree,-1260,-1250,2067,2071
+MeteorSite,-1351,-1336,2063,2093
+RLCraft_SmallUndergroundSkeleton,-1251,-1243,2096,2104
+RLCraft_BasicSkeleton,-1382,-1382,2111,2111
+RLCraft_UndergroundRuin1,-1385,-1376,2105,2114
+TribalJungleHead,-1216,-1206,2107,2117
+RLCraft_SmallUndergroundSkeleton,-1457,-1449,2234,2242
+RLCraft_DecentSkeleton,-1098,-1098,2253,2253
+RLCraft_UndergroundRuin3,-1103,-1095,2251,2259
+SmallAbandonedMine,-1478,-1463,2307,2332
+FallenPalmTree,-1320,-1316,2319,2329
+MeteorSite,-1477,-1462,2335,2365
+RLCraft_BasicSkeleton,-1388,-1388,2350,2350
+RLCraft_UndergroundRuin1,-1394,-1385,2347,2356
+DinosaurSkeleton,-1029,-1020,2376,2422
+MeteorSite,-1133,-1103,2519,2534

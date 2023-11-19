@@ -1,0 +1,6 @@
+StoneMazePath,-2505,-2503,2049,2051
+StoneMazePath,-2505,-2503,2052,2054
+StoneMazePath,-2505,-2503,2055,2057
+StoneMazePath,-2508,-2506,2055,2057
+StoneMazePath,-2499,-2497,2049,2051
+StoneMazeEndChest,-2499,-2497,2052,2054

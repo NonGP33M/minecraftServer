@@ -1,0 +1,17 @@
+RLCraft_SmallUndergroundSkeleton,1127,1135,562,570
+WoodWallRemains,1369,1377,586,614
+ShrineSmallFire,1345,1355,633,643
+SmallWoodenCottage2,1419,1427,654,662
+BigClockworkSite,1469,1514,630,665
+SpiderPit,1405,1415,720,729
+MeteorSite,1519,1549,727,742
+PeacefulCrypt,1443,1459,765,789
+VillageForgeLarge,1227,1239,807,823
+VillageSavannaStonemason,1206,1221,846,862
+VillageSavannaLibrary,1236,1247,848,858
+VillageGuardTower,1224,1236,870,882
+VillageSavannaTannery,1206,1217,875,898
+SmallClockworkSite,1479,1498,874,896
+RLCraft_xKOSMOS42,1138,1164,903,932
+SmallAbandonedMine,1277,1302,938,953
+SmallWoodenCottage1,1320,1331,983,989

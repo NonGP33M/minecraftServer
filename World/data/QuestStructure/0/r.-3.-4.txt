@@ -1,0 +1,14 @@
+StoneMazePath,-1843,-1841,-2057,-2055
+StoneMazePathBig,-1846,-1838,-2054,-2046
+StoneMazeShootingRange,-1837,-1829,-2051,-2046
+StoneMazePath,-1831,-1829,-2054,-2052
+StoneMazePath,-1831,-1829,-2057,-2055
+StoneMazePath,-1828,-1826,-2057,-2055
+StoneMazePath,-1825,-1823,-2057,-2055
+StoneMazePath,-1834,-1832,-2057,-2055
+StoneMazePath,-1837,-1835,-2057,-2055
+StoneMazeEndChest,-1840,-1838,-2057,-2055
+StoneMazeShootingRange,-1825,-1817,-2054,-2049
+StoneMazePath,-1834,-1832,-2054,-2052
+StoneMazePath,-1837,-1835,-2054,-2052
+StoneMazePath,-1828,-1826,-2051,-2049

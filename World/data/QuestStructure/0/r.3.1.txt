@@ -1,0 +1,15 @@
+StonePlantMound,2039,2044,517,522
+StonePlantMound1,2007,2013,600,606
+StoneLeafMound,1827,1836,629,636
+RLCraft_PlainsCamp,1682,1721,638,684
+DinosaurSkull,1811,1830,645,656
+SmallClockworkSite,1601,1623,750,769
+RLCraft_LargeUndergroundTown,1523,1660,678,791
+ShrineSmallFire,1631,1641,795,805
+DesertBeacon,1727,1733,803,809
+DesertWatchtower,1603,1613,838,848
+DesertHut,1576,1586,867,876
+RLCraft_DecentSpider,1707,1707,861,861
+RLCraft_UndergroundRuin3,1702,1710,859,867
+DinosaurSkull,1606,1625,953,964
+RLCraft_SmallUndergroundSkeleton,1582,1590,985,993

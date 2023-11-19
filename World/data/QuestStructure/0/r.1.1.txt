@@ -1,0 +1,6 @@
+ShrineSmallAir,846,854,511,519
+ShrineSmallFire,507,517,903,913
+RLCraft_LargeUndergroundTown,866,1003,533,646
+DesertBeacon,903,909,661,667
+BlazeSpawnerCrystal,715,721,817,823
+ShrineSmallFire,762,772,1018,1028

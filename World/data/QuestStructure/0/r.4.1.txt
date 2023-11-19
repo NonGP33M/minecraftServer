@@ -1,0 +1,13 @@
+StoneBoulder,2080,2089,518,527
+RLCraft_UndergroundFarm,2326,2368,514,557
+StoneLeafMound,2143,2150,586,595
+RLCraft_SmallUndergroundSkeleton,2060,2068,623,631
+ShrineSmallWater,2061,2069,753,761
+StonePlantMound1,2328,2334,746,752
+P_WitchDungeon,2355,2389,766,783
+RLCraft_BasicZombie,2503,2503,767,767
+RLCraft_UndergroundRuin1,2497,2506,761,770
+MonolythHoly,2086,2100,888,902
+DesertHut,2434,2444,932,941
+P_SkyCastle,2075,2116,956,997
+RLCraft_LargeUndergroundTown,2241,2354,916,1053

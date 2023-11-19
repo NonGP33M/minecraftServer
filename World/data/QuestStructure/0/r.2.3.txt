@@ -1,0 +1,12 @@
+ShrineSmallWater,1020,1028,1767,1775
+RLCraft_UndergroundFarm,1346,1388,1649,1692
+ShrineSmallAir,1450,1458,1659,1667
+UndergroundCultChamber,1058,1100,1722,1754
+RLCraft_DecentSkeleton,1097,1097,1840,1840
+RLCraft_UndergroundRuin2,1092,1102,1835,1842
+RLCraft_BasicSpider,1259,1259,1841,1841
+RLCraft_UndergroundRuin1,1256,1265,1835,1844
+RLCraft_DecentZombie,1275,1275,1852,1852
+RLCraft_UndergroundRuin3,1270,1278,1846,1854
+RLCraft_AgentStarbuck_WaterBase,1153,1170,1918,1930
+BlazeSpawnerCrystal,1083,1089,1935,1941

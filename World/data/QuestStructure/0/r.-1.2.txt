@@ -1,0 +1,4 @@
+StonePlantBoulder,-1001,-991,1361,1371
+SmallWoodenCottage1,-964,-953,1358,1364
+P_SmallShip,-706,-686,1373,1379
+StonePlantBoulder,-535,-525,1451,1461

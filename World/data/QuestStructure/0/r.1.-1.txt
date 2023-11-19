@@ -1,0 +1,16 @@
+Flagship,494,537,-919,-804
+RLCraft_SmallUndergroundSkeleton,924,932,-872,-864
+SmallFortRuins,972,1004,-836,-806
+RLCraft_BasicCaveSpider,939,939,-620,-620
+RLCraft_UndergroundRuin1,936,945,-626,-617
+SmallClockworkSite,1002,1024,-551,-532
+RLCraft_DecentSkeleton,953,953,-661,-661
+RLCraft_UndergroundRuin3,950,958,-667,-659
+RLCraft_DecentCaveSpider,893,893,-804,-804
+RLCraft_UndergroundRuin2,888,898,-809,-802
+P_SmallShip,557,577,-657,-651
+UndergroundCultChamber,536,568,-640,-598
+P_DesertTemple,724,774,-564,-515
+SmallClockworkSite,622,644,-540,-521
+FallenPalmTree,557,561,-525,-515
+SmallAbandonedOutpost,996,1026,-1030,-1008

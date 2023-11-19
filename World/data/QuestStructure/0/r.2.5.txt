@@ -1,0 +1,6 @@
+UndergroundTreeoid,1181,1204,2915,2941
+StonePlantMound4,1274,1281,2932,2939
+ShrineSmallAir,1054,1062,2951,2959
+StoneBoulder,1288,1297,2959,2968
+StonePlantBoulder,1328,1338,3010,3020
+StoneLeafMound,1247,1254,3052,3061

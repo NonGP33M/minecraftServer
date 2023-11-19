@@ -1,0 +1,16 @@
+RLCraft_SmallUndergroundSkeleton,712,720,-1503,-1495
+MysticalTree,963,978,-1430,-1414
+RLCraft_LargeUndergroundTown,917,1054,-1536,-1423
+RLCraft_DecentWitch,860,860,-1439,-1439
+RLCraft_UndergroundRuin2,855,865,-1441,-1434
+RLCraft_DecentCaveSpider,578,578,-1412,-1412
+RLCraft_UndergroundRuin3,575,583,-1418,-1410
+StonePlantMound3,825,834,-1394,-1383
+StonePlantMound,986,991,-1397,-1392
+StonePlantMound2,975,987,-1377,-1364
+MysticalTree1,1011,1024,-1378,-1367
+StoneLeafMound,792,801,-1336,-1329
+StoneBoulder,950,959,-1245,-1236
+StonePlantMound4,966,973,-1212,-1205
+StoneBoulder,868,877,-1139,-1130
+ClayWaterMound1,980,990,-1059,-1048
